@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OnlineShopping.iml" filepath="$PROJECT_DIR$/OnlineShopping.iml" group="OnlineShopping" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="OnlineShopping/app" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication.iml" filepath="$PROJECT_DIR$/myapplication.iml" group="myapplication" />
+      <module fileurl="file://$PROJECT_DIR$/app/myapplication-app.iml" filepath="$PROJECT_DIR$/app/myapplication-app.iml" group="myapplication/app" />
+    </modules>
+  </component>
+</project>
